@@ -1,0 +1,11 @@
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\source\repo\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
